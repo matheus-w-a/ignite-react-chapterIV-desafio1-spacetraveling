@@ -13,7 +13,6 @@
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#configurações-necessárias">Configurações necessárias</a> •
  <a href="#licença">Licença</a> •
- <a href="#autor">Autor</a>
 </p>
 
 ## Sobre o projeto
@@ -25,10 +24,6 @@ A aplicação foi desenvolvida utilizando o framework NextJS aplicando os concei
 Como desafio complementar foi adicionado sessão de comentários utilizando Utterances, acesso a Preview dos posts do Prismic CMS, controle de navegação dentro do post para ir para o próximo/anterior e adição de tag com data de quando o post sofreu a ultima edição.
 
 O projeto foi desenvolvido como desafio das aulas do modulo 03 do [Ignite da Rocketseat](https://rocketseat.com.br/)
-
-Link do [desafio](https://www.notion.so/Desafio-01-Criando-um-projeto-do-zero-b1a3645d286b4eec93f5f1f5476d0ff7)
-
-Link do [desafio complementar](https://www.notion.so/Desafio-02-Adicionando-features-ao-blog-d466866c02544c79bbada9717c033d0a)
 
 ---
 
