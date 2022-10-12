@@ -83,9 +83,3 @@ $ yarn dev
 ```
 
 ---
-
-## Licença
-
-Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
-
----
